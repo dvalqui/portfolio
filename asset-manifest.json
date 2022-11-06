@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dvalqui/portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/dvalqui/portfolio/static/js/main.97d2cab4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/dvalqui/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/dvalqui/portfolio/index.html",
+    "main.073c9b0a.css.map": "/dvalqui/portfolio/static/css/main.073c9b0a.css.map",
+    "main.97d2cab4.js.map": "/dvalqui/portfolio/static/js/main.97d2cab4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/dvalqui/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.97d2cab4.js"
+  ]
+}
